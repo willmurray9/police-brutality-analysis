@@ -8,4 +8,4 @@ This project in particular deals with a data set containing information on polic
 
 (Note: Please click through my presentation in presenter view so that the animations I added display correctly)
 
-**What I Learne**
+**What I Leare**
